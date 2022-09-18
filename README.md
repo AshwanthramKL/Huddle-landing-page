@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Huddle-landing-page)
+- Live Site URL: [Landing Page](https://ashwanthramkl.github.io/Huddle-landing-page/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Font awesome]()
+- [Font awesome](https://fontawesome.com/)
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
